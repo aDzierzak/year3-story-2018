@@ -23,4 +23,4 @@ Chapter 3
 
 CHAPTERS:
 ========
-[Chapter1](https://github.com/aDzierzak/year3-story-2018/master/chapter1.html)
+[Chapter1](https://github.com/aDzierzak/year3-story-2018/chapter1.html)

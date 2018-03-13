@@ -21,4 +21,4 @@ Chapter 3
 
 CHAPTERS:
 ========
-[Chapter1](https://github.com/aDzierzak/year3-story-2018/blob/gh-pages/chapter1.html "Chapter 1")
+[Chapter1](https://github.com/aDzierzak/year3-story-2018/blob/gh-pages/chapter1.html)

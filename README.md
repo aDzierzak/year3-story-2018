@@ -19,6 +19,6 @@ STATUS:
 
 [Chapter3](https://adzierzak.github.io/year3-story-2018/chapter3.html)
 ---------
-66 words
+123 words
 
 

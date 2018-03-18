@@ -21,7 +21,7 @@ STATUS:
 ---------
 209 words
 
-[Chapter3](https://adzierzak.github.io/year3-story-2018/alternateEnding.html)
+[Alternate Ending](https://adzierzak.github.io/year3-story-2018/alternateEnding.html)
 ---------
 209 words
 
